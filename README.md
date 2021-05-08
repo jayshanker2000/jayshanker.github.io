@@ -1,3 +1,1 @@
-<html>
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=jayshanker2000.jayshanker2000)
-</html>
+![Visitor Count](https://profile-counter.glitch.me/{jayshanker2000}/count.svg)
